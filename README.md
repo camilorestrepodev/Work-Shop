@@ -5,7 +5,9 @@ La empresa MAKAI,se dedica al alquiler de embarcaciones y necesita un sistema pa
 
 Una embarcacióndebe tenersi o si un capitánylos datos del capitánson: nombre, apellido y matricula de navegación----Utilizar un constructor que permita asignar todos estos atributos al momento de crear el objecto capitán.
 
-La embarcación además de tener asociado un capitán,tiene un precio base, un valor adicional, un añode fabricacióny la longitud en metros que se denomina eslora. Existen dos variaciones de embarcaciones que alquila MAKAI. Ambas con las característicasque se describieron, pero cada una tiene ademásotras características. Los veleros tienen cantidad de mástilesy los yates cantidad de camarotes. 
+La embarcación además de tener asociado un capitán,tiene un precio base, un valor adicional, un añode fabricacióny la longitud en metros que se denomina eslora. 
+
+Existen dos variaciones de embarcaciones que alquila MAKAI. Ambas con las característicasque se describieron, pero cada una tiene ademásotras características. Los veleros tienen cantidad de mástilesy los yates cantidad de camarotes. 
 
 El sistema debe de contar con las siguientes Funcionalidades.
 

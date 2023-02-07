@@ -15,6 +15,10 @@ Dada cualquier embarcaciónelsistema debe permitir calcular el monto del alquile
 
 Es importante poder evaluar en un velero si es grande, los velos grandes son aquellos que superan los 4 mastiles. 
 
+# UML:
+![Diagrama sin título drawio (2)](https://user-images.githubusercontent.com/119947851/217353797-258c7a7c-8497-4009-bc59-e9bb7d49bfeb.png)
+
+
 # PARTICIPANTES:
 - Juan Camilo Restrepo B.
 - Edward Reyes
